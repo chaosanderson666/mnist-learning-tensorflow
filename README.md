@@ -1,2 +1,2 @@
-# mnist-learning-tensorflow
-Handwritten digital recognition using TensorFlow.
+# mnist-learning
+Handwritten digital recognition based on TensorFlow.
